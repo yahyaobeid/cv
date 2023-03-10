@@ -40,7 +40,7 @@ a{
 }
 
 .nav {
-  background-color: #3a24f0;
+  background-color: #800000;
   padding: 10px;
   text-align: center;
   width: 100%;
@@ -59,7 +59,7 @@ a{
 }
 
 .nav a:hover {
-  background-color: #24aff0;
+  background-color: #ff6c7e;
 }
 .nav a.active{
 	background-color: white;
